@@ -1,0 +1,8 @@
+.azure
+.deployment
+.vscode
+__pycache__
+*.pyc
+*.ipynb
+*.csv
+env
