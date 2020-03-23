@@ -6,7 +6,7 @@ import requests
 from constants import CONFIRMED_URL, RECOVERD_URL, DEATH_URL
 
 
-def download_data():
+def update_data():
 
     today = datetime.date.today()
 
